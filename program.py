@@ -1,0 +1,4 @@
+#Her skal vi lage kode
+
+for i in range (5):
+    print("hei")
