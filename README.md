@@ -4,4 +4,5 @@ Hei
 
 vi fikk til
 
-værdata oppgave!
+værdata oppgave!¨
+ijefjif
